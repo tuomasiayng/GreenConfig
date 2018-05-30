@@ -1,52 +1,79 @@
 {
- 
+	"1": "山财演示",
+	"SC_ZHXY_BASE_IP": "112.53.75.163:8090",
+	"2": "智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片",
 
-    <!--山财演示-->
-    "SC_ZHXY_BASE_IP" : "112.53.75.163:8090", <!--智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片-->
+	"3": "遵义演示",
+	"ZY_ZHXY_BASE_IP": "222.86.159.102:8090",
+	"4": "智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片",
+	"ZY_GLOA_BASE_IP": "222.86.159.102:8090",
+	"5": "格林OA接口IP   工作流、我的工作、OA通告、公文传阅、",
+	"ZY_TDOA_BASE_IP": "222.86.159.102:8090",
+	"6": "通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）",
+	"ZY_GLJF_BASE_IP": "222.19.134.18:4080",
+	"7": "格林网络计费接口IP  计费",
 
-    <!--遵义演示-->
-    "ZY_ZHXY_BASE_IP" : "222.86.159.102:8090", <!--智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片-->
-    "ZY_GLOA_BASE_IP" : "222.86.159.102:8090", <!--格林OA接口IP   工作流、我的工作、OA通告、公文传阅、-->
-    "ZY_TDOA_BASE_IP" : "222.86.159.102:8090", <!--通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）-->
-    "ZY_GLJF_BASE_IP" : "222.19.134.18:4080", <!--格林网络计费接口IP  计费
+	"8": "河南演示",
+	"HN_ZHXY_BASE_IP": "d.hnfts.cn",
+	"9": "智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片",
+	"HN_GLOA_BASE_IP": "oa.hnfts.cn",
+	"10": "格林OA接口IP   工作流、我的工作、OA通告、公文传阅、",
+	"HN_TDOA_BASE_IP": "oa.hnfts.cn",
+	"11": "通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）",
+	"HN_GLXG_BASE_IP": "d.hnfts.cn",
+	"12": "格林学工接口IP  违纪处分、量化考核",
+	"HN_HQ_BASE_IP": "d.hnfts.cn",
+	"13": "后勤系统IP 餐厅管理、采购检查、法律法规、留样检查、设施标准、今日菜品、日常检查、报修、维修相关",
 
-    <!--河南演示-->
-    "HN_ZHXY_BASE_IP" : "d.hnfts.cn", <!--智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片-->
-    "HN_GLOA_BASE_IP" : "oa.hnfts.cn", <!--格林OA接口IP   工作流、我的工作、OA通告、公文传阅、-->
-    "HN_TDOA_BASE_IP" : "oa.hnfts.cn", <!--通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）-->
-    "HN_GLXG_BASE_IP" : "d.hnfts.cn", <!--格林学工接口IP  违纪处分、量化考核-->
-    "HN_HQ_BASE_IP" : "d.hnfts.cn", <!--后勤系统IP 餐厅管理、采购检查、法律法规、留样检查、设施标准、今日菜品、日常检查、报修、维修相关-->
+	"14": "测试地址",
+	"CS_ZHXY_BASE_IP": "192.168.1.2:8090",
+	"15": "智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片",
+	"CS_GLOA_BASE_IP": "192.168.1.2:80",
+	"16": "格林OA接口IP   工作流、我的工作、OA通告、公文传阅、",
+	"CS_TDOA_BASE_IP": "192.168.1.2:80",
+	"17": "通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）",
+	"CS_GLXG_BASE_IP": "192.168.1.2:8090",
+	"18": "格林学工接口IP  违纪处分、量化考核",
+	"CS_HQ_BASE_IP": "192.168.1.2:8090",
+	"19": "后勤系统IP 餐厅管理、采购检查、法律法规、留样检查、设施标准、今日菜品、日常检查、报修、维修相关",
 
-    <!--测试地址-->
-    "CS_ZHXY_BASE_IP" : "192.168.1.2:8090", <!--智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片-->
-    "CS_GLOA_BASE_IP" : "192.168.1.2:80", <!--格林OA接口IP   工作流、我的工作、OA通告、公文传阅、-->
-    "CS_TDOA_BASE_IP" : "192.168.1.2:80", <!--通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）-->
-    "CS_GLXG_BASE_IP" : "192.168.1.2:8090", <!--格林学工接口IP  违纪处分、量化考核-->
-    "CS_HQ_BASE_IP" : "192.168.1.2:8090", <!--后勤系统IP 餐厅管理、采购检查、法律法规、留样检查、设施标准、今日菜品、日常检查、报修、维修相关-->
+	"20": "演示demo",
+	"DEMO_ZHXY_BASE_IP": "d.hnfts.cn",
+	"21": "智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片",
+	"DEMO_GLOA_BASE_IP": "oa.hnfts.cn",
+	"22": "格林OA接口IP   工作流、我的工作、OA通告、公文传阅、",
+	"DEMO_TDOA_BASE_IP": "oa.hnfts.cn",
+	"23": "通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）",
+	"DEMO_GLOA_ZHXY_BASE_IP": "d.hnfts.cn",
+	"24": "格林OA接口IP   工作流、我的工作、OA通告、公文传阅",
+	"DEMO_TDOA_ZHXY_BASE_IP": "d.hnfts.cn",
+	"25": "通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）",
+	"DEMO_GLXG_BASE_IP": "d.hnfts.cn",
+	"26": "格林学工接口IP  违纪处分、量化考核",
+	"DEMO_HQ_BASE_IP": "d.hnfts.cn",
+	"27": "后勤系统IP 餐厅管理、采购检查、法律法规、留样检查、设施标准、今日菜品、日常检查、报修、维修相关",
+	"DEMO_GLKQ_BASE_IP": "d.hnfts.cn",
+	"28": "格林考勤接口IP  外网ip",
+	"DEMO_GLKQ_BASE_DSJ_IP": "d.hnfts.cn",
+	"29": "格林考勤大数据接口IP  考勤  大数据验证",
+	"DEMO_GLJF_BASE_IP": "d.hnfts.cn",
+	"30": "格林网络计费接口IP  计费",
 
-    <!--演示demo-->
-    "DEMO_ZHXY_BASE_IP" : "d.hnfts.cn", <!--智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片-->
-    "DEMO_GLOA_BASE_IP" : "oa.hnfts.cn", <!--格林OA接口IP   工作流、我的工作、OA通告、公文传阅、-->
-    "DEMO_TDOA_BASE_IP" : "oa.hnfts.cn", <!--通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）-->
-    "DEMO_GLOA_ZHXY_BASE_IP" : "d.hnfts.cn", <!--格林OA接口IP   工作流、我的工作、OA通告、公文传阅、-->
-    "DEMO_TDOA_ZHXY_BASE_IP" : "d.hnfts.cn", <!--通达OA接口IP   微讯地址、工作日志、OA提醒、定位考勤（要改）-->
-    "DEMO_GLXG_BASE_IP" : "d.hnfts.cn", <!--格林学工接口IP  违纪处分、量化考核-->
-    "DEMO_HQ_BASE_IP" : "d.hnfts.cn", <!--后勤系统IP 餐厅管理、采购检查、法律法规、留样检查、设施标准、今日菜品、日常检查、报修、维修相关-->
-    "DEMO_GLKQ_BASE_IP" : "d.hnfts.cn", <!--格林考勤接口IP  外网ip-->
-    "DEMO_GLKQ_BASE_DSJ_IP" : "d.hnfts.cn", <!--格林考勤大数据接口IP  考勤  大数据验证-->
-    "DEMO_GLJF_BASE_IP" : "d.hnfts.cn", <!--格林网络计费接口IP  计费-->
+	"31": "demo测试用户",
+	"DEMO_ZHXY_JSZH": "hu1*123456",
+	"32": "demo  教师用户",
+	"DEMO_ZHXY_XSZH": "16020135*666666",
+	"33": "demo  学生用户",
+	"34": "大数据相关",
+	"BIGDATA_USER": "libaichen",
+	"35": "bigdata服务器用户名",
+	"BIGDATA_PASSWORD": "20121004",
+	"36": "bigdata服务器密码",
 
-    <!--demo测试用户-->
-    "DEMO_ZHXY_JSZH" : "hu1*123456", <!--demo  教师用户-->
-    "DEMO_ZHXY_XSZH" : "16020135*666666", <!--demo  学生用户-->
-    <!--大数据相关
-    "BIGDATA_USER" : "libaichen", <!--bigdata服务器用户名-->
-    "BIGDATA_PASSWORD" : "20121004", <!--bigdata服务器密码-->
-
-    <!--山财特殊需求-->
-    "OA_LOGIN_NAME" : "2015095", <!---->
-    "OA_LOGIN_PASSWORD" : "200040", <!---->
-    <!--河南测试需求-->
-    "HN_LOGIN_NAME" : "admin", <!---->
-    "HN_LOGIN_PASSWORD" : "666666", <!---->
+	"37": "山财特殊需求",
+	"OA_LOGIN_NAME": "2015095",
+	"OA_LOGIN_PASSWORD": "200040",
+	"38": "河南测试需求",
+	"HN_LOGIN_NAME": "admin",
+	"HN_LOGIN_PASSWORD": "666666"
 }
