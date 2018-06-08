@@ -14,7 +14,7 @@
 	"7": "格林网络计费接口IP  计费",
 
 	"8": "河南演示",
-	"HN_ZHXY_BASE_IP": "222.86.159.102:8090",
+	"HN_ZHXY_BASE_IP": "d.hnfts.cn"",
 	"9": "智慧校园接口IP  公参接口、数据服务、全文检索、聊天、lms、bigdata、获取图片",
 	"HN_GLOA_BASE_IP": "oa.hnfts.cn",
 	"10": "格林OA接口IP   工作流、我的工作、OA通告、公文传阅、",
