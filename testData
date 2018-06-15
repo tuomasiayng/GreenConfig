@@ -1,0 +1,14 @@
+{
+	"success": true,
+	"msg": "请求成功",
+	"rows": {
+		"ID": "20170720",
+		"APP_NAME": "三千项目",
+		"APP_DESC": "三千项目",
+		"APP_VERSION": "V1.05",
+		"APP_DOWNLOAD_URL": "http://210.44.128.237/sqjh.apk",
+		"APP_VERSION_FILE": null,
+		"APP_VERSION_DESC": "三千项目移动端隆重登场！",
+		"ROWNUM_": 1
+	}
+}
